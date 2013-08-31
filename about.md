@@ -1,8 +1,4 @@
-![...](http://f.cl.ly/items/3g2c1i1l1C040Z3F2b24/Image%202013-08-31%20at%204.44.18%20AM.png "...")
-
-Devlinks is an opinionated collection of links related to Productivity, SaaS, Web Development, Full-Stack Development, Tinkering, and Hacking the Open Web.
-
-It is a collection of resources designed to get things done. Think of it as a knowledge transfer, and a product of the Hacker Gift Culture.
+A little word about this project:
 
 I have not fully automated the process by which the corresponding Twitter links are added alongside each link. A script is used to find them, but there is still a lot of copying and pasting, as the script bails out when over 100 links are added. As such:
 
@@ -17,3 +13,4 @@ You can [Download the site's source-code](https://github.com/dhig/webdev-links/a
 If you're looking for an exhaustive list of frontend links, try this:
 
 [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
