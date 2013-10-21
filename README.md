@@ -2,6 +2,8 @@
 
 [![...](http://f.cl.ly/items/3g2c1i1l1C040Z3F2b24/Image%202013-08-31%20at%204.44.18%20AM.png "...")](http://devlinks.co.uk/)
 
+[![I Love Open Source](http://www.iloveopensource.io/images/logo-lightbg.png)](http://www.iloveopensource.io/projects/525c0849a82101497d00015a)
+
 WebDev Links is an opinionated collection of links related to Productivity, SaaS, Web Development, Full-Stack Development, Tinkering, and Hacking the Open Web.
 
 It is a collection of resources designed to get things done. Think of it as a knowledge transfer, and a product of the Hacker Gift Culture.
