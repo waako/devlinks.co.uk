@@ -1,5 +1,7 @@
 ##Collection of Web Development Links, Services, Tools & Resources. Open Web Utilities. JavaScript, User Experience (UX), Design, CSS, SaaS, Full Stack Engineering, Security, Social, Tinkering.
 
+![...](http://f.cl.ly/items/0g2j341r3W1j1v3k1z19/dev.jpg "...")
+
 ###A curated, opinionated collection of links
 
 WebDev Links is an opinionated collection of links related to Productivity, SaaS, Web Development, Full-Stack Development, Tinkering, and Hacking the Open Web. It is a collection of resources designed to get things done. Think of it as a knowledge transfer, and a product of the [Hacker Gift Culture](http://www.catb.org/esr/writings/homesteading/homesteading/ar01s06.html).
@@ -15,6 +17,18 @@ They are (at least) categorized. The easy option would be to glob these URLs int
 __*"But there's too many links. I will never find the time to visit each one"*__
 
 How do you measure time? I have not even explored the Linkdumps section contained in this!. The Internet is a difficult, if not near-impossible beast to conquer. Perhaps you are able to set aside some hours to explore the links? This is not a silly game where I expect every person to fully digest the list upon first visit.
+
+[![...](http://f.cl.ly/items/42161a2n23111o2F2O0t/tip.png "Fund me on Gittip")](https://www.gittip.com/dhig/)
+
+__David Higgins__ is a web developer who contributes all his free time to The Open Web. He expects nothing in return for what he does, and sees any monetary reward as a bonus. With that said, he also runs on Coffee and Beer, which are expensive habits to maintain. So fund him on Gittip, and help David do what he does best.
+
+###[Donate - gittip.com/dhig](https://www.gittip.com/dhig/)
+
+- [higg.im](http://higg.im/)
+- [higg.tel](http://higg.tel/)
+- [public@higg.im](mailto:public@higg.im)
+
+![...](http://f.cl.ly/items/0E121z1x212X16091Y1k/s.png "...")
 
 __SERVICES / SaaS__
 - http://archive.is/
