@@ -10,7 +10,7 @@ Common responses for the list are:
 
 __*"But the links have no description"*__
 
-They are (at least) categorized. The easy option would be to glob these URLs into one nasty list. If you like descriptions, I can  I can only contribute so much to the Open Web. Anyways, metadata can prove to be unreliable. Machine readable descriptions for some sites can sound skewed. An example would be: "This site is the greatest site in the whole world. We have lots of info on this page. Please read more!". That is hardly helpful! I kindly ask you to open a link and discern the meaning of the page/site for yourself.
+They are (at least) categorized. The easy option would be to glob these URLs into one nasty list. If you like descriptions, I can only contribute so much to the Open Web. Anyways, metadata can prove to be unreliable. Machine readable descriptions for some sites can sound skewed. An example would be: "This site is the greatest site in the whole world. We have lots of info on this page. Please read more!". That is hardly helpful! I kindly ask you to open a link and discern the meaning of the page/site for yourself.
 
 __*"But there's too many links. I will never find the time to visit each one"*__
 
